@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30705.151
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniLisp.Tests", "MiniLisp.Tests\MiniLisp.Tests.csproj", "{6006DBA4-C20F-42B4-A60E-57CE336DCEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniLisp", "MiniLisp\MiniLisp.csproj", "{DB1A8758-D2B1-4AEE-AC1C-22E3642A2681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6006DBA4-C20F-42B4-A60E-57CE336DCEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6006DBA4-C20F-42B4-A60E-57CE336DCEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6006DBA4-C20F-42B4-A60E-57CE336DCEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6006DBA4-C20F-42B4-A60E-57CE336DCEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB1A8758-D2B1-4AEE-AC1C-22E3642A2681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1A8758-D2B1-4AEE-AC1C-22E3642A2681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1A8758-D2B1-4AEE-AC1C-22E3642A2681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1A8758-D2B1-4AEE-AC1C-22E3642A2681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA70362A-3C49-43BA-AA82-29086FB0F404}
+	EndGlobalSection
+EndGlobal
